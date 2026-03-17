@@ -24,7 +24,7 @@ body {
 .hero-gradient {
     /* Image er uporer layer */
     background:linear-gradient(#1a0b2e),
-                url('hero-bg.png');
+                url('assets/hero-bg.png');
     
     background-size: cover;
     background-position: center;
@@ -87,7 +87,7 @@ body {
 }
 
 .glass-card:hover {
-    border-color: rgba(255, 87, 51, 0.4);
+    border-color: rgba(255, 255, 255, 0.4);
 }
 
 .episode-card {

@@ -81,7 +81,6 @@ body {
 /* --- Main Card er part --- */
 .glass-card {
     background: #1a0b2e;
-    border: 1px solid #1a0b2e;
     backdrop-filter: blur(12px);
     transition: transform 0.3s ease, border-color 0.3s ease;
 }
